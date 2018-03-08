@@ -1,4 +1,4 @@
-__tests__/__snapsshots__
+__tests__/__snapshots__
 .DS_STORE
 node_modules
 *~
